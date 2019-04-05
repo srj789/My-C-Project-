@@ -1,2 +1,2 @@
-# My-Project-
-A repo to maintain my project
+# My-C-Project-
+A repo to maintain my project based on C programming language
